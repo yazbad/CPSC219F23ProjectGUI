@@ -49,7 +49,7 @@ public class Menu {
             }
             System.out.println("\nChoose an option:");
             System.out.println("1. Add Food Item");
-            System.out.println("2. Add calorietracker.core.data.Meal");
+            System.out.println("2. Add Meal");
             System.out.println("3. Add Exercise Session");
             System.out.println("4. Print All Food Items");
             System.out.println("5. Print All Meals");
@@ -370,7 +370,7 @@ public class Menu {
         }
 
         meals.add(meal); // Add the completed meal to the list of meals
-        System.out.println("calorietracker.core.data.Meal added successfully!");  // Confirm successful addition to the user
+        System.out.println("Meal added successfully!");  // Confirm successful addition to the user
     }
 
     /**

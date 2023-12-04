@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b1ae5ec-2496-473a-ab60-ae168cadeaeb" name="Changes" comment="Renaming">
+    <list default="true" id="2b1ae5ec-2496-473a-ab60-ae168cadeaeb" name="Changes" comment="Fixed issue where MainGUI wouldnt load">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/calorietracker/core/GUI/MainGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calorietracker/core/GUI/MainGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calorietracker/core/util/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calorietracker/core/util/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/calorietracker/core/calorietracker.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/calorietracker/core/calorietracker.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,8 +143,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainGUI" />
-        <item itemvalue="JUnit.CalorieTrackerTest (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CalorieTrackerTest (1)" />
         <item itemvalue="JUnit.CalorieTrackerTest" />
       </list>
     </recent_temporary>
@@ -156,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701684988118</updated>
-      <workItem from="1701684989198" duration="5144000" />
+      <workItem from="1701684989198" duration="9977000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -182,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701689311319</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed issue where MainGUI wouldnt load">
+      <option name="closed" value="true" />
+      <created>1701690206977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701690206977</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +211,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Renaming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renaming" />
+    <MESSAGE value="Fixed issue where MainGUI wouldnt load" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed issue where MainGUI wouldnt load" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
