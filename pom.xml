@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>calorietracker.calorietracker/calorietracker.core.GUI.HelloApplication
+                            <mainClass>calorietracker.calorietracker/calorietracker.core.GUI.MainGUI
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

@@ -3,7 +3,7 @@ package calorietracker.core.GUI;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class CalorieController {
     @FXML
     private Label welcomeText;
 
