@@ -1,4 +1,4 @@
-package calorietracker.core;
+package calorietracker.core.GUI;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
