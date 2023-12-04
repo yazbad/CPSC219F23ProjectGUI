@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b1ae5ec-2496-473a-ab60-ae168cadeaeb" name="Changes" comment="initial commit">
+    <list default="true" id="2b1ae5ec-2496-473a-ab60-ae168cadeaeb" name="Changes" comment="Renaming">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/calorietracker/core/GUI/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calorietracker/core/GUI/MainGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/calorietracker/core/GUI/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calorietracker/core/GUI/CalorieController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/calorietracker/core/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/calorietracker/core/calorietracker.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calorietracker/core/GUI/MainGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calorietracker/core/GUI/MainGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/calorietracker/core/calorietracker.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/calorietracker/core/calorietracker.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +67,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.externalResources",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -157,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701684988118</updated>
-      <workItem from="1701684989198" duration="3819000" />
+      <workItem from="1701684989198" duration="5144000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -175,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701688447427</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Renaming">
+      <option name="closed" value="true" />
+      <created>1701689311319</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701689311319</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,17 +201,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Renaming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renaming" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/calorietracker/core/GUI/MainGUI.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
